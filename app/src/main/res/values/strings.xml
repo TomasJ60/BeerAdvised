@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="app_name">
+        <item>Lager</item>
+        <item>negras</item>
+        <item>Belgas</item>
+        <item>Alemanas</item>
+    </string-array>
+</resources>
