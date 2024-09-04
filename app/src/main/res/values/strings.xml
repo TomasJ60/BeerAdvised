@@ -1,10 +1,8 @@
 <resources>
-    <string-array name="app_name">
+    <string-array name="building_interactive_apps">
         <item>Lager</item>
         <item>negras</item>
         <item>Belgas</item>
         <item>Alemanas</item>
-        <item>Otro tipo de cerveza</item>
-        <item>Otro tipo de cerveza</item>
     </string-array>
 </resources>

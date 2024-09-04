@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         spinner= findViewById(R.id.spinner);
         tv1=findViewById(R.id.tv1);
 
-        String [] tiposCervezas= getResources().getStringArray(R.array.app_name);
+        String [] tiposCervezas= getResources().getStringArray(R.array.building_interactive_apps);
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, tiposCervezas);
         spinner.setAdapter(adapter);
 
